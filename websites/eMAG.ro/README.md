@@ -1,1 +1,1 @@
-
+# eMAG.ro activity folder
