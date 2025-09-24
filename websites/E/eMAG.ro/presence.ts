@@ -4,11 +4,11 @@ const presence = new Presence({
 
 enum ActivityAssets {
   Logo = 'https://s13emagst.akamaized.net/assets/ro/css/icons/logo-square.png',
-  Cart = 'https://cdn-icons-png.flaticon.com/128/9453/9453946.png',
-  Search = 'https://cdn-icons-png.flaticon.com/128/9968/9968777.png',
-  Product = 'https://cdn-icons-png.flaticon.com/128/10336/10336428.png',
-  Category = 'https://cdn-icons-png.flaticon.com/128/945/945178.png',
-  Account = 'https://cdn-icons-png.flaticon.com/128/10307/10307911.png'
+  Cart = 'https://cdn1.iconfinder.com/data/icons/shopping-and-commerce-filled/512/Shopping_and_Commerce_-_filled_75-512.png',
+  Search = 'https://cdn3.iconfinder.com/data/icons/social-messaging-ui-color-line/245532/58-512.png',
+  Product = 'https://cdn3.iconfinder.com/data/icons/glypho-design/64/eye-circle-512.png',
+  Category = 'https://cdn3.iconfinder.com/data/icons/social-messaging-ui-line-shapes/3/05-512.png',
+  Account = 'https://cdn1.iconfinder.com/data/icons/ui-next-2020-shopping-and-e-commerce-1/12/75_user-circle-512.png'
 }
 
 const browsingTimestamp = Math.floor(Date.now() / 1000);
